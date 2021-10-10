@@ -11,7 +11,7 @@ sudo apt install liballegro4.4 liballegro4-dev allegro4-doc`
 `sudo apt install git`
 
 3. Clone the repository folowing these instructions:
-[Cloning a repository] (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+[Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 and change the directory to the applications's:
 `cd blasteroids`
