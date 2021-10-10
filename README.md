@@ -22,4 +22,4 @@ sudo apt install liballegro4.4 liballegro4-dev allegro4-doc`
 5. Run and play:
 `./blaster`
  
-![Alt text](https://github.com/camargo-advanced/blasteroids/raw/master/screenshot.jpeg?raw=true)
+![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
