@@ -5,7 +5,7 @@ To compile and run on Ubuntu 20.04:
 
 0. Install Allegro library:   
 `sudo apt update`  
-`sudo apt install liballegro4.4 liballegro4-dev allegro4-doc`
+`sudo apt install liballegro5-dev allegro5-doc`
 
 1. Install git in case you do not have it:  
 `sudo apt install git`
