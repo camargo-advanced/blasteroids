@@ -4,7 +4,7 @@ Classic Asteroids game in pure C
 To compile and run on Ubuntu 20.04:
 
 0. Install Allegro library:
-`sudo apt update`
+`sudo apt update`  
 `sudo apt install liballegro4.4 liballegro4-dev allegro4-doc`
 
 1. Install git in case you do not have it:
