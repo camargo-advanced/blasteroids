@@ -11,7 +11,7 @@ To compile and run on Ubuntu 20.04:
 `sudo apt install git`
 
 2. Clone the repository.  
-If you do not now how, please follow these instructions:  
+If you do not now how, please follow these instructions: 
 [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 3. Change the directory to the applications's:  
