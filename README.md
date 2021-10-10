@@ -22,4 +22,4 @@ sudo apt install liballegro4.4 liballegro4-dev allegro4-doc`
 5. Run and play:
 `./blaster`
  
-![Alt text](/screenshot.jpg?raw=true)
+![Alt text](./screenshot.jpg)
