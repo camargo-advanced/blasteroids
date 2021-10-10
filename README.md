@@ -1,5 +1,6 @@
 # blasteroids
-Classic Asteroids game in pure C
+Classic Asteroids game in pure C.
+Marcelo Camargo, 2018.
 
 To compile and run on Ubuntu 20.04:
 
