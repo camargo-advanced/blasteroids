@@ -33,6 +33,8 @@ int main(int argc, char **argv)
         return -1;
     }
     
+    al_init_primitives_addon();
+    
     al_init_font_addon(); // initialize the font addon
     
     if (!al_init_ttf_addon()) {
@@ -60,27 +62,27 @@ int main(int argc, char **argv)
         fprintf(stderr, "failed to reserve samples!\n");
         return -1;
     }
-    sound_fire = al_load_sample("/Users/marcelocamargo/Documents/src/Blasteroids/Resources/fire.wav");
+    sound_fire = al_load_sample("../res/fire.wav");
     if (!sound_fire){
         fprintf(stderr, "fire.wav not loaded!\n" );
         return -1;
     }
-    sound_bang = al_load_sample("/Users/marcelocamargo/Documents/src/Blasteroids/Resources/bangLarge.wav");
+    sound_bang = al_load_sample("../res/bang.wav");
     if (!sound_bang){
         fprintf(stderr, "bang.wav not loaded!\n" );
         return -1;
     }
-    sound_thrust = al_load_sample("/Users/marcelocamargo/Documents/src/Blasteroids/Resources/thrust.wav");
+    sound_thrust = al_load_sample("../res/thrust.wav");
     if (!sound_thrust){
         fprintf(stderr, "thrust.wav not loaded!\n" );
         return -1;
     }
-    sound_game_over = al_load_sample("/Users/marcelocamargo/Documents/src/Blasteroids/Resources/Siren1Loop.wav");
+    sound_game_over = al_load_sample("../res/siren.wav");
     if (!sound_game_over){
         fprintf(stderr, "Siren1Loop.wav not loaded!\n" );
         return -1;
     }
-    sound_game_start = al_load_sample("/Users/marcelocamargo/Documents/src/Blasteroids/Resources/Beep6.wav");
+    sound_game_start = al_load_sample("../res/beep.wav");
     if (!sound_game_start){
         fprintf(stderr, "Siren1Loop.wav not loaded!\n" );
         return -1;

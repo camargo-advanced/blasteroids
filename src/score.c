@@ -15,7 +15,7 @@ Score * create_score(float screen_w, float screen_h)
 {
     Score * p = (Score *) malloc(sizeof(Score));
     
-    p->font = al_load_ttf_font("/Users/marcelocamargo/Documents/src/Blasteroids/Resources/Hyperspace Bold.otf", 90, 0);
+    p->font = al_load_ttf_font("../res/hyperspace-bold.otf", 90, 0);
     if (!p->font){
         fprintf(stderr, "Could not load font.\n");
         return NULL;
