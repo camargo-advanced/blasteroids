@@ -22,4 +22,4 @@ sudo apt install liballegro4.4 liballegro4-dev allegro4-doc`
 5. Run and play:
 `./blaster`
  
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+![solarized palette](screenshot.jpeg)
