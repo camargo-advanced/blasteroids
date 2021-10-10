@@ -22,4 +22,4 @@ sudo apt install liballegro4.4 liballegro4-dev allegro4-doc`
 5. Run and play:
 `./blaster`
  
-![Alt text](https://github.com/camargo-advanced/blasteroids/screenshot.jpg)
+![Alt text](https://github.com/camargo-advanced/blasteroids/screenshot.jpeg)
