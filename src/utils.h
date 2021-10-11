@@ -3,7 +3,6 @@
 //  Blasteroids
 //
 //  Created by Marcelo Camargo on 11/7/18.
-//  Copyright © 2018 Marcelo Camargo. All rights reserved.
 //
 #ifndef utils_h
 #define utils_h

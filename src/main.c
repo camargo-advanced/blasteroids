@@ -3,7 +3,6 @@
 //  Blasteroids
 //
 //  Created by Marcelo Camargo on 11/16/18.
-//  Copyright © 2018 Marcelo Camargo. 
 //
 // Install Allegro library:
 // sudo apt update
