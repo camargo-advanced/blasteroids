@@ -2,8 +2,7 @@
 //  asteroids.h
 //  Blasteroids
 //
-//  Created by Marcelo Camargo on 11/16/18.
-//  Copyright © 2018 Marcelo Camargo. All rights reserved.
+//  Created by Marcelo Camargo on 11/16/18. 
 //
 #ifndef asteroids_h
 #define asteroids_h

@@ -3,7 +3,6 @@
 //  Blasteroids
 //
 //  Created by Marcelo Camargo on 11/17/18.
-//  Copyright © 2018 Marcelo Camargo. All rights reserved.
 //
 #ifndef wireframe_h
 #define wireframe_h

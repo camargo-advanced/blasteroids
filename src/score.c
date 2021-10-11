@@ -3,10 +3,6 @@
 //  Blasteroids
 //
 //  Created by Marcelo Camargo on 11/7/18.
-//  Copyright © 2018 Marcelo Camargo. All rights reserved.
-//
-// TODO:
-//       put resources into a resource bundle... do not access direcly from filesystem
 //
 #include "score.h"
 #include "spaceship.h"
