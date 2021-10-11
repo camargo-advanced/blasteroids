@@ -1,5 +1,5 @@
 # blasteroids
-Classic Asteroids game in pure C.  
+Classic asteroid game written in pure c with the allegro library.    
 Marcelo Camargo, 2018.
 
 To compile and run on Ubuntu 20.04:
@@ -23,7 +23,5 @@ If you do not now how, please follow these instructions:
 
 5. Run and play:  
 `./blaster`
-   
-   
    
 ![screenshot](screenshot.jpeg)
