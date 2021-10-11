@@ -3,21 +3,11 @@
 //  Blasteroids
 //
 //  Created by Marcelo Camargo on 11/16/18.
-//  Copyright © 2018 Marcelo Camargo. All rights reserved.
-//
-// how to compile:
+//  Copyright © 2018 Marcelo Camargo. 
 //
 // Install Allegro library:
 // sudo apt update
-// sudo apt install liballegro4.4 liballegro4-dev allegro4-doc
-//
-// Install git in case you do not have it:
-// sudo apt install git
-//
-// Clone the repository
-//
-// Change the directory to the applications's:
-// cd blasteroids
+// sudo apt install liballegro5-dev allegro5-doc
 //
 // Compile:
 //gcc blasteroids.c asteroids.c blast.c main.c point.c score.c utils.c wireframe.c spaceship.c -o blaster -lallegro -lallegro_image -lallegro_color -lallegro_primitives -lallegro_font -lallegro_ttf -lallegro_audio -lallegro_acodec -lm
