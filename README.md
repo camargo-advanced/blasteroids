@@ -16,7 +16,7 @@ If you do not now how, please follow these instructions:
 [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 3. Change the directory to the applications's:  
-`cd blasteroids`
+`cd blasteroids/src`
 
 4. Compile:  
 `gcc blasteroids.c asteroids.c blast.c main.c point.c score.c utils.c wireframe.c spaceship.c -o blaster -lallegro -lallegro_image -lallegro_color -lallegro_primitives -lallegro_font -lallegro_ttf -lallegro_audio -lallegro_acodec -lm` 
